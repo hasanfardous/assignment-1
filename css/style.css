@@ -185,3 +185,32 @@ img {
     line-height: 15px;
     color: #18191F;
 }
+
+
+/* Footer styles */
+.footer-area {
+    background: #0B0D17;
+    height: 256px;
+}
+
+.footer-area h1 {
+    font-family: 'Manrope', sans-serif;;
+    font-size: 30px;
+    line-height: 41px;
+    color: #5B5B5B;
+    text-transform: uppercase;
+    padding: 38px 0 15px;
+}
+
+.footer-area h1 span {
+    color: #FBA24F;
+    background: -webkit-linear-gradient(55deg, #FBA24F 75%, #FF1E1E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer-area p {
+    font-size: 16px;
+    line-height: 26px;    
+    color: #FFFFFF;
+}
