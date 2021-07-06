@@ -161,3 +161,27 @@ img {
     color: #18191F;
     margin: 10px auto 12px;
 }
+
+
+/* Statistics area styles */
+.statistics-area {
+    max-width: 96%;
+    height: 226px;
+    margin: 0 auto 92px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgb(0 0 0 / 10%);
+    border-radius: 20px;
+}
+
+.statistics-area .quarter-width h1 {
+    font-size: 48px;
+    line-height: 64px;
+    color: #18191F;
+    margin: 70px auto 0;
+}
+
+.statistics-area .quarter-width p {
+    font-size: 16px;
+    line-height: 15px;
+    color: #18191F;
+}
